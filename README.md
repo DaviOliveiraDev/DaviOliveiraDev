@@ -1,7 +1,5 @@
 ## Olá! Bem vindos ao meu GitHub 📚
 
-- 👨‍🎓 Atualmente estou cursando tecnólogo em ciência de dados
-
  <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviOliveiraDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +21,7 @@
  <div> 
  	<a href="https://www.linkedin.com/in/davi-oliveira-b4768a1b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:daviolirsoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://gitlab.com/DaviOliveiraDev"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/DaviOliveiraDev/DaviOliveiraDev/blob/output/github-contribution-grid-snake.svg)
