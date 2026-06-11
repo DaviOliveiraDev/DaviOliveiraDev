@@ -5,6 +5,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviOliveiraDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOliveiraDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+[![DevFolio Card](https://devfolio.app.br/card/davi-oli)](https://devfolio.app.br/davi-oli)
  
 <div align="center" style="display: inline_block"><br>
   <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
